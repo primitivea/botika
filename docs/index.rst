@@ -3,49 +3,69 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Tutorial Lengkap Y2Mate Bahasa Indonesia [Terbaru 2022]
+Dokumentasi Cara Menggunakan Botika Text to Speech [Terbaru 2022]
 ==================
 
-Cara download video youtube jadi mp3 dengan y2mate. Buat anda yang suka nonton youtube pastinya pada beberapa video bagus yang ingin anda lihat lebih dari sekali bukan? Lihat juga ulasan mengenai `MP3 Juice <https://www.sebuahutas.com/2022/03/mp3-juice-untuk-download-lagu-mp3-dari.html>`_ jika ingin mengunduh YouTube dalam format mp3 saja.
+Untuk membuat teks menjadi suara tidaklah sulit, hal ini karena adanya situs text to speech seperti botika.online/texttospeech yang bisa membantu pengguna, terutama untuk membuat suara untuk konten video di TikTok maupun YouTube.
 
-Aplikasi Youtube sebenarnya sudah menyediakan fitur download yang bisa anda pakai secara mudah. Namun fitur download bawaan Youtube memiliki sejumlah keterbatasan. Selain tidak bisa mendownload dalam file MP3, fitur download bawaan aplikasi youtube juga tidak selalu tersedia pada semua video.
+Saat ini banyak kreator mencoba mengasah kemampuannya dengan membuat video menarik di berbagai platform, namun terkadang rasa gugup kerap melanda ketika harus menjelaskan sesuatu atau menyampaikan narasi lewat video.
 
-Dan jika bisa terdownload-pun hanya bisa tersimpan sekitar 30 hari saja yang mengharuskan pengguna untuk terhubung ke internet agar tidak terhapus otomatis. Untungnya saat ini sudah ada beberapa situs downloader youtube seperti y2mate yang akan kita bahas pada kesempatan kali ini.
+Sebagai solusinya bisa memanfaatkan teknologi text to speech melalui situs botoka.online, yang bisa mengubah teks menjadi suara untuk kebutuhan narasi video. Jadi, tidak perlu lagi merekam suara secara manual yang rentan kesalahan.
 
-Apa itu Y2mate
-============
+Sekilas Tentang Botika.online
+==================
+Botika.online merupakan situs yang dapat digunakan kreator membuat teks jadi suara, hasil konversi suaranya pun terdengar cukup natural sehingga cocok untuk narasi video, bahkan kerap digunakan untuk membuat nada dering WA (baca juga: https://www.stiead.ac.id/cara-buat-botika-jadi-nada-dering-wa/).
 
-Buat yang belum tahu, y2mate adalah sebuah situs downloader yang saat ini tersedia untuk konten-konten youtube. Situs resminya menggunakan alamat www[.]y2mate[.]com yang bisa anda akses menggunakan web browser modern.
+Jika tertarik membuat suara menggunakan teknologi text to speech, maka bisa kunjungi situs botika.online/texttospeech yang bisa diakses secara gratis. Tentunya bisa dimanfaatkan untuk membuat suara dari tulisan dengan praktis.
 
-Situs ini hadir untuk mengatasi persoalan pada beberapa video youtube yang tidak bisa didownload seperti konten yang mengandung musik.
+Situs Botika.online memang banyak digunakan karena memiliki fitur unggulan, salah satunya adalah suara perempuan yang terdengar natural, hasil konversi teks menjadi suara yang dihasilkan tidak seperti robot yang terkesan kaku.
 
-Y2mate bukan merupakan aplikasi resmi dari google atau youtube melainkan merupakan aplikasi dari pihak ketiga yang sama sekali tidak ada hubungannya dengan developer resminya.
+Fitur Unggulan Botika.online
+==================
+Botika.online menawarkan teknologi text to speech yang bisa menghasilkan suara buatan cukup dengan mengetikkan teks. Jadi, kamu tidak perlu merekam suara menggunakan alat perekam khusus. Lalu, apa fitur Botika.online ini?
 
-Buat anda yang penasaran dan ingin mencobanya bisa menyimak tips tutorial berikut ini.
+1. Antarmuka Sederhana
+--------------------------
+Situs Botika text to speech memiliki tampilan yang sederhana, hal ini tentunya akan sangat mudah digunakan oleh siapa saja, serta tanpa perlu repot login terlebih dahulu, pengguna hanya perlu memasukan teks di kolom yang tersedia. 
 
-Cara download video youtube jadi mp3 dengan y2mate
-===================
+2. Format Suara Berkualitas
+--------------------------
+Untuk memberikan hasil keluaran suara yang berkualitas, situs Botika mengemas suara dalam format mp3 sehingga dijamin terdengar jernih dan jelas, maka bisa digunakan untuk mengisi suara di konten video maupun nada dering WhatsApp.
 
-1. Langkah pertama silahkan buka situs Youtube terlebih dahulu
-2. Cari atau temukan video yang ingin anda download
-3. Copy atau salin url dari video youtube yang ingin anda download
-4. Selanjutnya buka situs www[.]y2mate[.]com atau buka link terbaru di `Y2Mate <https://www.sebuahutas.com/2022/03/y2mate-pengunduh-video-dan-mp3-dari.html>`_ berikut ini
-5. Paste-kan link url ke bagian kolom yang sudah tersedia lalu klik tombol start
-6. Setelah itu akan muncul beberapa pilihan opsi download
-7. Pilih tab MP3 dan klik tombol download
-8. Proses download akan dimulai dan saat sudah selesai anda akan melihat filenya dalam format mp3
-9. Selain sudah mendukung format MP3, situs y2mate juga menyediakan format MP4 yang lengkap beserta pilihan resolusinya.
-10. Anda bisa mendownload video youtube dalam bentuk file MP4 dengan pilihan resolusi mulai dari 144p hingga 1080p.
+3. Pilihan Karakter Suara
+--------------------------
+Pada situs botika.online/texttospeech hanya menyediakan dua pilihan karakter suara perempuan saja, meskipun tidak ada pilihan suara laki-laki, namun suara yang dihasilkan terdengar natural dan alami, tidak terdengar seperti suara robot.
 
-Keunggulan dan keuntungan menggunakan situs downloader y2mate
-========================
+Dengan mengetahui fitur unggulan situs Botika text to speech ini, maka tidak ada alasan lagi untuk mencoba membuat teks menjadi suara melalui situs ini. Lalu, apa kelebihannya?
 
-Situs y2mate.com bisa anda gunakan secara gratis tanpa perlu berlangganan bulanan sama sekali. Dan bagusnya lagi tidak ada batasan download sama sekali. Jadi saat menemukan konten video bagus di Youtube anda bisa langsung menggunakan situs y2mate ini untuk melakukan download file MP3 maupun MP4.
+Kelebihan Situs Botika.online
+==================
+Ada beberapa kelebihan situs pengubah teks jadi suara Botika text to speech dibandingkan dengan situs lainnya, salah satunya suara yang dihasilkan terdengar lebih jernih dan natural. Adapun kelebihannya sebagai berikut:
 
-Adapun kualitas server dari situs download y2mate ini juga terbilang bagus. Jadi anda bisa menggunakan kapan saja 24 jam sehari non stop. Keunggulan juga terlihat saat anda sudah mengklik tombol start, akan muncul pilihan tipe file beserta ukuran filenya yang bisa anda lihat.
+1. Layanan tersedia berupa situs dan aplikasi.
+2. Praktis dan mudah digunakan oleh siapa saja
+3. Hasil suara bisa download untuk berbagai kebutuhan.
+4. Gratis digunakan tanpa dikenakan biaya
+5. Suara terbilang natural dan beraksen Indonesia
+6. Hasil suara berkualitas dengan format mp3
+7. Aman digunakan karena tidak perlu login
 
-Dengan demikian informasi ukuran file ini bisa memberitahu para penggunanya untuk mengkira-kira terutama untuk pengguna limit kuota internet atau storage yang sudah hampir penuh. Dan sebagai platform gratisan maka sudah sangat umum sekali saat anda menggunakan situs y2mate ini akan muncul beberapa pop up iklan.
+Jika kamu ingin mencoba membuat nada dering WhatsApp atau membuat narasi suara untuk video, maka bsia gunakan situs Botika.online dengan mudah dan praktis. Lalu, bagaimana cara menggunakan situs text to speech ini?
 
-Bukan suatu hal besar tentunya mengingat ini adalah layanan gratisan dan juga jumlah iklannya sama sekali tidak banyak. Layanan situs downloader youtube ini bisa anda akses baik melalui komputer PC desktop laptop maupun pengguna smartphone dan tablet.
+Cara Menggunakan Botika.online
+==================
+Untuk membuat suara dengan mengetikan teks saja melalui situs botika.online/texttospeech tidaklah aulit, caranya mudah dan tidak membutuhkan waktu lama. Untuk lebih jelasnya, mari simak tutorial selengkapnya di bawah ini!
 
-Yang anda butuhkan hanyalah sebuah web browser yang sudah terinstall pada sistem operasi dengan versi paling update agar fitur-fiturnya bisa berjalan dengan lancar.
+1. Buka halaman situs botika.online/TextToSpeech/
+2. Kemudian pada kolom Text to Speech, tuliskan teks
+3. Setelah itu, pilih karakter suara yang diinginkan
+4. Terdapat dua karakter suara perempuan, pilih salah satu
+5. Centang bagian Saya Bukan Robot
+6. Klik Play, untuk mendengarkan suara
+7. Klik icon Download, untuk mengunduh suara
+
+Itulah cara membuat teks menjadi suara menggunakan situs Botika.online, kamu tidak perlu bersusah payah membuat suara menggunakan alat perekam, cukup menuliskan teks saja pada kolom yang sudah disediakan. Mudah bukan?
+
+Demikian pembahasan seputar fitur dan kelebihan situs Botika.online untuk mengubah teks menjadi suara, hasil suara yang terbilang natural dengan aksen Indonesia yang kental. Semoga informasinya bermanfaat.
+
+Referensi: techidn.github.io
