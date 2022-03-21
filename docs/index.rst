@@ -68,4 +68,4 @@ Itulah cara membuat teks menjadi suara menggunakan situs Botika.online, kamu tid
 
 Demikian pembahasan seputar fitur dan kelebihan situs Botika.online untuk mengubah teks menjadi suara, hasil suara yang terbilang natural dengan aksen Indonesia yang kental. Semoga informasinya bermanfaat.
 
-Referensi: techidn.github.io
+Referensi: `techidn.github.io <https://techidn.github.io>`_
