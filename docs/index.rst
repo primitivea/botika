@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Cara Buat Sound of text Melayu dengan Suara Google
+Sound of text Melayu dengan Suara Google [Panduan Lengkap]
 ==================
 
 Sound of text Melayu merupakan teknologi untuk mengubah teks menjadi suara dengan bahasa Melayu, hasil konversi bisa digunakan untuk dijadikan sebagai nada dering atau notifikasi WhatsApp maupun untuk kebutuhan konten tertentu.
