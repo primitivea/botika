@@ -24,7 +24,7 @@ Maka membuat suara google dengan sound of text jadi lebih praktis, apalagi bisa 
 Cara Membuat Sound of Text 
 =======================
 
-Aplikasi peengubah teks  menjadi suara banyak digunakan salah satunya untuk membuat suara `sound of text anime <https://www.giftcard.co.id/sound-of-text-anime/>`_. Selain kartun, suara Melayu juga termasuk sound of text yang cukup populer belakangan ini. Ada beberapa cara membuat sound of text bahasa Melayu, kamu bisa membuatnya tanpa perlu memasang aplikasi terlebih dahulu, cukup kunjungi situs konversi teks jadi suara secara gratis. Untuk lebih jelasnya, simak uraian dibawah ini!
+Aplikasi peengubah teks  menjadi suara banyak digunakan salah satunya untuk membuat suara `sound of text anime <https://www.apec2013.or.id/cara-sound-of-text-anime-naruto/>`_. Selain kartun, suara Melayu juga termasuk sound of text yang cukup populer belakangan ini. Ada beberapa cara membuat sound of text bahasa Melayu, kamu bisa membuatnya tanpa perlu memasang aplikasi terlebih dahulu, cukup kunjungi situs konversi teks jadi suara secara gratis. Untuk lebih jelasnya, simak uraian dibawah ini!
 
 1. Sound of Text Melayu melalui Voiceoftext.com
 ---------------------------
@@ -35,18 +35,18 @@ Untuk membuat sound of text bahasa Melayu untuk nada dering WhatsApp atau untuk 
 2. Pada kolom Text to Speech, masukan tulisan bahasa melayu yang diinginkan
 3. Setelah itu, klik tombol Convert to Voice. Maka tulisan yang kamu masukkan akan dikonversi jadi suara dalam format MP3
 4. Untuk mengunduh konversi teks jadi suara, klik icon download berwarna biru
-5. .Klik icon Play, untuk mendengarkan suara
+5. Klik icon Play, untuk mendengarkan suara
 6. Klik icon tiga titik, pilih Download untuk menyimpan hasil suara di memori penyimpanan hp atau laptop
 7. Selesai
 
 Melalui situs sound of text Melayu ini hasil suara terdengar sangat jelas dan jernih. Setelah file suara tersimpan di memori, maka kami sudah bisa membenarkannya untuk dipasang sebagai nada dering WhatsApp atau membuat video Tiktok  
 
-2. Sound of Text Melayu melalui Play.ht
+2. Sound of Text Melayu melalui situs Mayniaga.com
 --------------------------
 
 Adalun alternatif untuk membuat sound of text bahasa Melayu bisa menggunakan situs Play.ht. Dengan begitu, kamu bisa membuat teks jadi suara yang diinginkan tanpa perlu repot install aplikasi tambahan. Berikut cara membuatnya.
 
-1. Terlebih dahulu kunjungi situs sound of text https://play.ht/text-to-speech-voices/malaysian-malay/
+1. Terlebih dahulu kunjungi situs `sound of text malay <https://www.mayniaga.com/sound-of-text/>`_ ini
 2. Kemudian pilih bahasa Malay, pilih karakter suara Yasmin, dan pilih Regular
 3. Setelah itu, masukkan teks pada kolom yang tersedia sesuai dengan keinginan
 4. Klik Listen, untuk mendengarkan hasil konversi suara
@@ -64,6 +64,24 @@ Ada beberapa kelebihan membuat suara atau audio melalui situs konversi teks jadi
 - Gratis digunakan tanpa perlu bayar apapun
 - Situs terjamin keamanannya
 
-Nah, itulah pembahasan tentang cara membuat sound of text Melayu melalui situs pembuat tanpa perlu memasang aplikasi tambahan. Sebenarnya, kamu juga bisa melakukannya menggunakan aplikasi yang ada dalam daftar 3 APK suara Google berikut ini: https://www.dmo.or.id/3-apk-suara-google-terbaik-untuk-wa/
+Sound of Text: Fungsi dan Penggunaannya
+=============================
+
+Fungsi Sound of Text
+-------------------
+1. **Pembelajaran Bahasa:** Ia membantu pengguna untuk memahami sebutan perkataan atau frasa dalam bahasa asing dengan lebih tepat, mempercepatkan proses pembelajaran.
+2. **Memudahkan Komunikasi:** Dengan menukarkan teks ke audio, perbualan dengan individu yang tidak memahami bahasa yang sama menjadi lebih mudah.
+3. **Penggunaan Dalam Media Sosial:** Anda boleh menggunakan Sound of Text untuk membuat nada dering, nota suara atau naratif audio untuk video di platform seperti WhatsApp, TikTok, dan lain-lain.
+4. **Voiceover untuk Kandungan Video:** Anda boleh menambahkan naratif suara atau muzik ke dalam video untuk meningkatkan kualitinya.
+
+Penggunaan Sound of Text
+------------------------
+1. **Pembelajaran:** Pelajar dan pendidik boleh menggunakannya sebagai alat bantuan dalam pembelajaran bahasa.
+2. **Bisnes:** Ia boleh digunakan oleh syarikat yang ingin berkomunikasi dengan pelanggan atau rakan kongsi dari negara lain.
+3. **Pembangunan Aplikasi:** Pemaju boleh mengintegrasikan fungsi teks ke ucapan dalam aplikasi untuk mencipta pengalaman yang lebih interaktif untuk pengguna.
+4. **Kandungan Digital:** Pencipta kandungan boleh menggunakannya untuk menambahkan voiceover atau efek suara ke dalam video, podcast, atau media digital lain.
+
+
+Nah, itulah pembahasan tentang cara membuat sound of text Melayu melalui situs pembuat tanpa perlu memasang aplikasi tambahan. Sebenarnya, kamu juga bisa melakukannya menggunakan aplikasi yang ada dalam daftar 3 APK suara Google berikut ini: https://karinov.co.id/download-sound-of-text-apk/
 
 Kini membuat surat untuk konten video jadi lebih mudah dan praktis tanpa harus merekam manual. Yuk, coba sekarang!
